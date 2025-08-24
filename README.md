@@ -12,13 +12,13 @@ Sistema de gerenciamento de vídeos e programação para SmartTVs e Box Android.
 
 ## 📦 Instalação com Docker
 ```bash
-git clone https://github.com/seu-usuario/videoserver.git
+git clone https://github.com/Allebrandte/videoserver.git
 cd videoserver
 docker-compose up -d
 ```
 
-- Painel: `http://SEU_IP:3000`
-- API: `http://SEU_IP:3001`
+- Painel: `http://187.16.231.233:3000`
+- API: `http://187.16.231.233:3001`
 - MongoDB: `mongodb://localhost:27017`
 
 Login inicial: `admin / admin123`
